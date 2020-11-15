@@ -1,5 +1,7 @@
 # Pytorch implementation of librosa
 
+fork for coreML conversion
+
 This codebase provides PyTorch implementation of some librosa functions. The functions can run on GPU. For example, users can extract log mel spectrogram on GPU. The numerical difference of this codebase and librosa is less than 1e-6.
 
 # Install
